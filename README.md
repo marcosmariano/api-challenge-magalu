@@ -13,7 +13,7 @@ Projeto utiliza de :
 # Links de Referência
 
 - [.NET Hello World tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/)
-- [.NET 5.0 Download](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 6.0 Download](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [MySql 8.0](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/)
 - [Docker Download](https://docs.docker.com/get-docker/)
 - [Docker Compose Download](https://docs.docker.com/compose/install/)
